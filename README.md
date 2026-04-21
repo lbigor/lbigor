@@ -1,5 +1,8 @@
 ### Igor Lima · Dev Sankhya W desde 2011
 
+[![Discussions](https://img.shields.io/github/discussions/lbigor/lbigor)](https://github.com/lbigor/lbigor/discussions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Desenvolvo customizações Java no Sankhya W há 15 anos. +100 projetos em
 produção em saúde, indústria, agro, e-commerce e contabilidade. Pacote
 padrão: `br.com.lbi`.
